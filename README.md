@@ -121,3 +121,5 @@ The site’s visual appearance will be evaluated on whether or not the design lo
 
 5. **Final Check**
    - Double-check all links, ensure the website is accessible from GitHub Pages, and verify the Figma image in the README.
+
+https://www.figma.com/file/v3ZOFxwls4qwLWhnY60hAI/Untitled?type=design&node-id=0-1&mode=design&t=oOrSAB8owrpDKzQn-0
