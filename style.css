@@ -6,3 +6,16 @@
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
 }
+
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: url(https://cdn.discordapp.com/attachments/819846167634116611/1167239459100704868/Group_3_2.png?ex=654d6775&is=653af275&hm=d76ff8fd6a6a173ce7817e1102f917f5ea070b2503ba237441024db0e79e9816&) no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
