@@ -65,7 +65,7 @@ header .navigation a:not(:last-child){
 .content .info p{
     font-size: 36px;
     font-weight: 700;
-    margin-bottom: 40px;
+    margin-bottom: 166px;
     color:#ffffff;
 }
 
@@ -75,5 +75,8 @@ header .navigation a:not(:last-child){
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 700;
+    padding: 26px 55px;
+    border-radius: 10px;
+
 
 }
