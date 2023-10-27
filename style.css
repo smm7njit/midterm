@@ -28,6 +28,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 75px;
 }
 
 header .logo {
@@ -87,3 +88,25 @@ header .navigation a:not(:last-child){
     background: #180C49;
 
 }
+
+.media-icons{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 195px;
+
+}
+
+.media-icons a{
+    position: relative;
+    color: black;
+    font-size: 45px;
+    background:#ffffff;
+}
+
+.media-icons a:not(:last-child){
+    margin-right: 60px;
+
+}
+
