@@ -52,8 +52,28 @@ header .navigation a:not(:last-child){
 }
 
 .content{
-    max-width: 489px;
+    max-width: 650px;
     margin: 60px 100px;
 }
 
-.content .
+.content .info h2{
+    color: #ffffff;
+    font-size: 70px;
+    margin-bottom: 60px;
+}
+
+.content .info p{
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    color:#ffffff;
+}
+
+.content .info-btn{
+    color:#ffffff;
+    background: #3D2C83;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
