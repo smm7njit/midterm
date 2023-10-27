@@ -77,6 +77,13 @@ header .navigation a:not(:last-child){
     font-weight: 700;
     padding: 26px 55px;
     border-radius: 10px;
+    transition: 0.3s;
+    transition-property: background;
 
+
+}
+
+.content .info-btn:hover{
+    background: #180C49;
 
 }
