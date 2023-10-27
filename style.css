@@ -14,7 +14,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(https://cdn.discordapp.com/attachments/819846167634116611/1167239459100704868/Group_3_2.png?ex=654d6775&is=653af275&hm=d76ff8fd6a6a173ce7817e1102f917f5ea070b2503ba237441024db0e79e9816&) no-repeat;
+    background: url(https://cdn.discordapp.com/attachments/819846167634116611/1167283583610789978/image.png?ex=654d908d&is=653b1b8d&hm=19fead734f7979a667a502022b2fcbf50dded2082e1bdbaa5340ffaab5b00b4e&) no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -39,11 +39,21 @@ header .logo {
 }
 
 header .navigation a{
-    color: #000;
-    background: #ffffff;
+    color: #ffffff;
     text-decoration: none;
     font-weight: 500;
     letter-spacing: 1px;
     padding: 2px 15px;
     border-radius: 20px;
 }
+
+header .navigation a:not(:last-child){
+    margin-right: 30px;
+}
+
+.content{
+    max-width: 489px;
+    margin: 60px 100px;
+}
+
+.content .
