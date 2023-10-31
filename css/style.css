@@ -206,6 +206,34 @@ header.sticky .nav-bar{
   display: none;
 }
 
+.skill-list {
+  display: grid;
+  /* Apply Grid layout */
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  /* Create as many columns as fit into the container */
+  gap: calc(.5 * var(--base-spacing));
+  /* Add space between grid items */
+  margin-bottom: 1rem;
+  /* Add space below the list */
+  margin-left: 350px;
+  font-size: 1.9em;
+}
+
+.skill-list li {
+  display: flex;
+  /* Apply Flexbox layout */
+  align-items: center;
+  /* Center children vertically */
+  justify-items: center;
+}
+
+.fa-skill-icon {
+  margin-right: var(--base-spacing);
+  /* Add space to the right of the icon */
+  font-size: var(--icon-font-size);
+  /* Icon size */
+}
+
 /*=======Home section=======*/
 .home{
   position: relative;
