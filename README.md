@@ -133,8 +133,8 @@ https://www.figma.com/file/v3ZOFxwls4qwLWhnY60hAI/Untitled?type=design&node-id=0
 
 Figma images:
 
-<a href="https://cdn.discordapp.com/attachments/819846167634116611/1169959857823154226/image.png?ex=65574d06&is=6544d806&hm=2427e15f26d55bc92385296689d6892f9c2e6e8fb4058f52e0ef380182a3fe4f&">
+<img src="https://cdn.discordapp.com/attachments/819846167634116611/1169959857823154226/image.png?ex=65574d06&is=6544d806&hm=2427e15f26d55bc92385296689d6892f9c2e6e8fb4058f52e0ef380182a3fe4f&">
 
-<a href="https://cdn.discordapp.com/attachments/819846167634116611/1169960008654528623/image.png?ex=65574d2a&is=6544d82a&hm=645550855eaf1c4a3935d638e1c211cd4f62ca740ee4860e32363ebdbd62c4c4&">
+<img src="https://cdn.discordapp.com/attachments/819846167634116611/1169960008654528623/image.png?ex=65574d2a&is=6544d82a&hm=645550855eaf1c4a3935d638e1c211cd4f62ca740ee4860e32363ebdbd62c4c4&">
 
 
